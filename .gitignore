@@ -1,0 +1,14 @@
+# IDE and Jupyter
+.idea/
+.ipynb_checkpoints/
+__pycache__/
+.venv/
+
+# local assistant context and internal planning — never part of the repo
+AGENTS.md
+CLAUDE.md
+.claude/
+docs/plan.md
+
+# course material downloaded from Canvas (instructor copyright; repo is public)
+docs/course/
